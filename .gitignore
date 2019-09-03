@@ -1,4 +1,14 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 .iml
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
 .idea
+*.iml
+out
+gen
+/target
+!/pom.xml
